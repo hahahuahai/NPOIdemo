@@ -1,0 +1,13 @@
+F:\study\NPOI\NPOI创建DOCX常用操作\NPOI创建DOCX常用操作源码\CreateChart\CreateChart\bin\Debug\CreateChart.exe
+F:\study\NPOI\NPOI创建DOCX常用操作\NPOI创建DOCX常用操作源码\CreateChart\CreateChart\bin\Debug\CreateChart.pdb
+F:\study\NPOI\NPOI创建DOCX常用操作\NPOI创建DOCX常用操作源码\CreateChart\CreateChart\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\study\NPOI\NPOI创建DOCX常用操作\NPOI创建DOCX常用操作源码\CreateChart\CreateChart\bin\Debug\NPOI.dll
+F:\study\NPOI\NPOI创建DOCX常用操作\NPOI创建DOCX常用操作源码\CreateChart\CreateChart\bin\Debug\NPOI.OOXML.dll
+F:\study\NPOI\NPOI创建DOCX常用操作\NPOI创建DOCX常用操作源码\CreateChart\CreateChart\bin\Debug\NPOI.OpenXml4Net.dll
+F:\study\NPOI\NPOI创建DOCX常用操作\NPOI创建DOCX常用操作源码\CreateChart\CreateChart\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\study\NPOI\NPOI创建DOCX常用操作\NPOI创建DOCX常用操作源码\CreateChart\CreateChart\obj\x86\Debug\CreateChart.csprojResolveAssemblyReference.cache
+F:\study\NPOI\NPOI创建DOCX常用操作\NPOI创建DOCX常用操作源码\CreateChart\CreateChart\obj\x86\Debug\CreateChart.Form1.resources
+F:\study\NPOI\NPOI创建DOCX常用操作\NPOI创建DOCX常用操作源码\CreateChart\CreateChart\obj\x86\Debug\CreateChart.Properties.Resources.resources
+F:\study\NPOI\NPOI创建DOCX常用操作\NPOI创建DOCX常用操作源码\CreateChart\CreateChart\obj\x86\Debug\CreateChart.csproj.GenerateResource.Cache
+F:\study\NPOI\NPOI创建DOCX常用操作\NPOI创建DOCX常用操作源码\CreateChart\CreateChart\obj\x86\Debug\CreateChart.exe
+F:\study\NPOI\NPOI创建DOCX常用操作\NPOI创建DOCX常用操作源码\CreateChart\CreateChart\obj\x86\Debug\CreateChart.pdb

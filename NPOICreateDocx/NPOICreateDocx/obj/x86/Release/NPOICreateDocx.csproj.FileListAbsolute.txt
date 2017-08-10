@@ -1,0 +1,13 @@
+F:\study\NPOI\NPOI创建DOCX常用操作\NPOI创建DOCX常用操作源码\NPOICreateDocx\NPOICreateDocx\bin\Release\NPOICreateDocx.exe
+F:\study\NPOI\NPOI创建DOCX常用操作\NPOI创建DOCX常用操作源码\NPOICreateDocx\NPOICreateDocx\bin\Release\NPOICreateDocx.pdb
+F:\study\NPOI\NPOI创建DOCX常用操作\NPOI创建DOCX常用操作源码\NPOICreateDocx\NPOICreateDocx\bin\Release\ICSharpCode.SharpZipLib.dll
+F:\study\NPOI\NPOI创建DOCX常用操作\NPOI创建DOCX常用操作源码\NPOICreateDocx\NPOICreateDocx\bin\Release\NPOI.dll
+F:\study\NPOI\NPOI创建DOCX常用操作\NPOI创建DOCX常用操作源码\NPOICreateDocx\NPOICreateDocx\bin\Release\NPOI.OOXML.dll
+F:\study\NPOI\NPOI创建DOCX常用操作\NPOI创建DOCX常用操作源码\NPOICreateDocx\NPOICreateDocx\bin\Release\NPOI.OpenXml4Net.dll
+F:\study\NPOI\NPOI创建DOCX常用操作\NPOI创建DOCX常用操作源码\NPOICreateDocx\NPOICreateDocx\bin\Release\NPOI.OpenXmlFormats.dll
+F:\study\NPOI\NPOI创建DOCX常用操作\NPOI创建DOCX常用操作源码\NPOICreateDocx\NPOICreateDocx\obj\x86\Release\NPOICreateDocx.csprojResolveAssemblyReference.cache
+F:\study\NPOI\NPOI创建DOCX常用操作\NPOI创建DOCX常用操作源码\NPOICreateDocx\NPOICreateDocx\obj\x86\Release\NPOICreateDocx.Form1.resources
+F:\study\NPOI\NPOI创建DOCX常用操作\NPOI创建DOCX常用操作源码\NPOICreateDocx\NPOICreateDocx\obj\x86\Release\NPOICreateDocx.Properties.Resources.resources
+F:\study\NPOI\NPOI创建DOCX常用操作\NPOI创建DOCX常用操作源码\NPOICreateDocx\NPOICreateDocx\obj\x86\Release\NPOICreateDocx.csproj.GenerateResource.Cache
+F:\study\NPOI\NPOI创建DOCX常用操作\NPOI创建DOCX常用操作源码\NPOICreateDocx\NPOICreateDocx\obj\x86\Release\NPOICreateDocx.exe
+F:\study\NPOI\NPOI创建DOCX常用操作\NPOI创建DOCX常用操作源码\NPOICreateDocx\NPOICreateDocx\obj\x86\Release\NPOICreateDocx.pdb

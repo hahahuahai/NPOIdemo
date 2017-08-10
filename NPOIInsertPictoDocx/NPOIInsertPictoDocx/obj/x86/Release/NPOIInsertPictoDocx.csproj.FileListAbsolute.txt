@@ -1,0 +1,13 @@
+F:\study\NPOI\NPOI创建DOCX常用操作\NPOI创建DOCX常用操作源码\NPOIInsertPictoDocx\NPOIInsertPictoDocx\bin\Release\NPOIInsertPictoDocx.exe
+F:\study\NPOI\NPOI创建DOCX常用操作\NPOI创建DOCX常用操作源码\NPOIInsertPictoDocx\NPOIInsertPictoDocx\bin\Release\NPOIInsertPictoDocx.pdb
+F:\study\NPOI\NPOI创建DOCX常用操作\NPOI创建DOCX常用操作源码\NPOIInsertPictoDocx\NPOIInsertPictoDocx\bin\Release\ICSharpCode.SharpZipLib.dll
+F:\study\NPOI\NPOI创建DOCX常用操作\NPOI创建DOCX常用操作源码\NPOIInsertPictoDocx\NPOIInsertPictoDocx\bin\Release\NPOI.dll
+F:\study\NPOI\NPOI创建DOCX常用操作\NPOI创建DOCX常用操作源码\NPOIInsertPictoDocx\NPOIInsertPictoDocx\bin\Release\NPOI.OOXML.dll
+F:\study\NPOI\NPOI创建DOCX常用操作\NPOI创建DOCX常用操作源码\NPOIInsertPictoDocx\NPOIInsertPictoDocx\bin\Release\NPOI.OpenXml4Net.dll
+F:\study\NPOI\NPOI创建DOCX常用操作\NPOI创建DOCX常用操作源码\NPOIInsertPictoDocx\NPOIInsertPictoDocx\bin\Release\NPOI.OpenXmlFormats.dll
+F:\study\NPOI\NPOI创建DOCX常用操作\NPOI创建DOCX常用操作源码\NPOIInsertPictoDocx\NPOIInsertPictoDocx\obj\x86\Release\NPOIInsertPictoDocx.csprojResolveAssemblyReference.cache
+F:\study\NPOI\NPOI创建DOCX常用操作\NPOI创建DOCX常用操作源码\NPOIInsertPictoDocx\NPOIInsertPictoDocx\obj\x86\Release\NPOIInsertPictoDocx.Form1.resources
+F:\study\NPOI\NPOI创建DOCX常用操作\NPOI创建DOCX常用操作源码\NPOIInsertPictoDocx\NPOIInsertPictoDocx\obj\x86\Release\NPOIInsertPictoDocx.Properties.Resources.resources
+F:\study\NPOI\NPOI创建DOCX常用操作\NPOI创建DOCX常用操作源码\NPOIInsertPictoDocx\NPOIInsertPictoDocx\obj\x86\Release\NPOIInsertPictoDocx.csproj.GenerateResource.Cache
+F:\study\NPOI\NPOI创建DOCX常用操作\NPOI创建DOCX常用操作源码\NPOIInsertPictoDocx\NPOIInsertPictoDocx\obj\x86\Release\NPOIInsertPictoDocx.exe
+F:\study\NPOI\NPOI创建DOCX常用操作\NPOI创建DOCX常用操作源码\NPOIInsertPictoDocx\NPOIInsertPictoDocx\obj\x86\Release\NPOIInsertPictoDocx.pdb
